@@ -30,6 +30,12 @@ A very simple:
 python judge.py
 ```
 
+- The above will produce a prompt asking for codes, you will need to copy paste 
+all and only the **answers** from the form, separated by a tab character.
+- Type gibberish or nothing at all and it'll ask you whether you wanna quit, if
+  yes, type `y`
+
+
 ## Notes
 
 Research and discussions required with
