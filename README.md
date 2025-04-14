@@ -56,3 +56,7 @@ Research and discussions required with
 > P.S. The depth of research for this project never went past discussions and
 > case-studies, but the questions and the current system works for my current
 > setting
+
+## Additional Finds
+
+1. https://anishathalye.com/designing-a-better-judging-system/
